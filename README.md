@@ -1,6 +1,6 @@
 # ChatsApp - A real time chat app.
 
-Visit this link to try your hands at ChatsApp : 
+Visit this link to try your hands at ChatsApp :https://shray-jain-chatsapp.herokuapp.com/ 
 
 **Authentication**
 
